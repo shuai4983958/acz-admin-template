@@ -7,7 +7,7 @@
     "name": "acz-template",
     "email": "984133382@qq.com"
   },
-  "repository": "https://github.com/shuai4983958/acz-admin-template.git/acz-template",
+  "repository": "https://github.com/shuai4983958/acz-admin-template.git",
   "scripts": {
     "dev": "umi dev"
   },
